@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: e7989e47567a1284890cc40130334f7e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: b83d97b84b100254185c01e77c5be518, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 12(Clone)
+      parentName: 
+      position: {x: 0.000008139038, y: 18.944263, z: 0.000003100586}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_000
+      parentName: 12(Clone)
+      position: {x: 3.0979238, y: -5.4552913, z: -17.218216}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_001
+      parentName: 12(Clone)
+      position: {x: -3.8945844, y: -0.07683794, z: -14.7794895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_002
+      parentName: 12(Clone)
+      position: {x: 2.8795145, y: -0.07684628, z: -14.7794895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_003
+      parentName: 12(Clone)
+      position: {x: -9.520543, y: -0.2970704, z: -16.456532}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_004
+      parentName: 12(Clone)
+      position: {x: -8.513849, y: -1.6535631, z: -18.42086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_005
+      parentName: 12(Clone)
+      position: {x: -6.22385, y: 0.7856767, z: -9.061087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_006
+      parentName: 12(Clone)
+      position: {x: -5.548151, y: -4.2739305, z: -9.097509}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_007
+      parentName: 12(Clone)
+      position: {x: -10.650539, y: -0.13765037, z: -18.380829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_008
+      parentName: 12(Clone)
+      position: {x: -6.3991942, y: -0.32380864, z: -9.09769}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_009
+      parentName: 12(Clone)
+      position: {x: -1.9000196, y: -2.4322815, z: -8.983749}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_010
+      parentName: 12(Clone)
+      position: {x: 3.2575192, y: -3.1348672, z: -7.5043173}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_011
+      parentName: 12(Clone)
+      position: {x: -10.554892, y: -2.7858238, z: -18.46133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_012
+      parentName: 12(Clone)
+      position: {x: -6.1752067, y: -2.4188638, z: -8.88956}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_013
+      parentName: 12(Clone)
+      position: {x: -10.548821, y: 3.0518286, z: -18.540188}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_014
+      parentName: 12(Clone)
+      position: {x: -8.348498, y: -2.7822795, z: -18.539848}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_015
+      parentName: 12(Clone)
+      position: {x: 1.6130307, y: -4.753868, z: -8.924342}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_016
+      parentName: 12(Clone)
+      position: {x: -8.32347, y: -3.9631038, z: -18.288002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_017
+      parentName: 12(Clone)
+      position: {x: -7.7594347, y: -5.841241, z: -8.890459}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_018
+      parentName: 12(Clone)
+      position: {x: -9.267337, y: 2.5429347, z: -18.115875}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_019
+      parentName: 12(Clone)
+      position: {x: 4.227197, y: -3.1972601, z: -7.504708}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_020
+      parentName: 12(Clone)
+      position: {x: 3.6452136, y: 4.7110963, z: -8.675613}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_021
+      parentName: 12(Clone)
+      position: {x: 0.123190835, y: 5.600505, z: -17.287277}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_022
+      parentName: 12(Clone)
+      position: {x: -4.7753835, y: 6.9859586, z: -17.57513}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_023
+      parentName: 12(Clone)
+      position: {x: -6.16734, y: 4.9262285, z: -17.997711}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_024
+      parentName: 12(Clone)
+      position: {x: 1.1934938, y: 6.9538636, z: -17.136185}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_025
+      parentName: 12(Clone)
+      position: {x: -2.369392, y: 5.030332, z: -17.825308}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_026
+      parentName: 12(Clone)
+      position: {x: -1.1522615, y: 4.2743297, z: -17.149471}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_027
+      parentName: 12(Clone)
+      position: {x: 7.488253, y: 3.4894397, z: -17.149473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_028
+      parentName: 12(Clone)
+      position: {x: 7.6644654, y: 0.22251384, z: -17.149473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_029
+      parentName: 12(Clone)
+      position: {x: 7.703212, y: 4.6312485, z: -17.149473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_030
+      parentName: 12(Clone)
+      position: {x: 6.5895805, y: 4.136345, z: -17.149473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_031
+      parentName: 12(Clone)
+      position: {x: 7.1784935, y: 5.3178434, z: -17.149473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_032
+      parentName: 12(Clone)
+      position: {x: 9.0827265, y: 2.5602643, z: -17.575132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_033
+      parentName: 12(Clone)
+      position: {x: -4.065222, y: 2.1242733, z: -6.3815265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_034
+      parentName: 12(Clone)
+      position: {x: 7.1613255, y: 1.852073, z: -7.9986186}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_035
+      parentName: 12(Clone)
+      position: {x: 6.5943522, y: 5.645039, z: -7.875737}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_036
+      parentName: 12(Clone)
+      position: {x: -4.498661, y: -5.7696323, z: -17.634352}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_037
+      parentName: 12(Clone)
+      position: {x: -3.8711207, y: -6.5960455, z: -16.05898}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_038
+      parentName: 12(Clone)
+      position: {x: -4.177812, y: -7.484425, z: -8.756217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_039
+      parentName: 12(Clone)
+      position: {x: 2.2999551, y: -7.6169333, z: -8.792519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_040
+      parentName: 12(Clone)
+      position: {x: -0.20184185, y: -7.720245, z: -8.959922}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_041
+      parentName: 12(Clone)
+      position: {x: -2.2480557, y: -7.4933968, z: -8.560327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_042
+      parentName: 12(Clone)
+      position: {x: -4.060592, y: -6.6499953, z: -9.78953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_043
+      parentName: 12(Clone)
+      position: {x: -9.596224, y: -1.4107509, z: -15.817512}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_044
+      parentName: 12(Clone)
+      position: {x: -8.900429, y: -3.2097125, z: -11.048851}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_045
+      parentName: 12(Clone)
+      position: {x: -9.864466, y: -3.797335, z: -15.322288}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_046
+      parentName: 12(Clone)
+      position: {x: -2.0331235, y: 3.64762, z: -7.137827}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_047
+      parentName: 12(Clone)
+      position: {x: 9.083151, y: -4.768192, z: -4.116629}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_048
+      parentName: 12(Clone)
+      position: {x: 2.9021504, y: -0.0119663235, z: -9.623384}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_049
+      parentName: 12(Clone)
+      position: {x: -0.5189714, y: 3.2365594, z: -6.4373}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_050
+      parentName: 12(Clone)
+      position: {x: 2.923322, y: 3.2365625, z: -2.9083588}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_051
+      parentName: 12(Clone)
+      position: {x: 6.3781776, y: 0.18023938, z: -6.249175}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_052
+      parentName: 12(Clone)
+      position: {x: -0.5189742, y: 3.2365594, z: -2.9083588}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_053
+      parentName: 12(Clone)
+      position: {x: 6.3762326, y: 3.2365656, z: -2.9083588}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_054
+      parentName: 12(Clone)
+      position: {x: 6.376232, y: -3.2845235, z: -6.4373}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_055
+      parentName: 12(Clone)
+      position: {x: 2.9340374, y: -3.2845292, z: -2.9083588}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_056
+      parentName: 12(Clone)
+      position: {x: -0.5189722, y: -3.2845297, z: -6.4373}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_057
+      parentName: 12(Clone)
+      position: {x: 6.3762345, y: -3.284523, z: -2.9083588}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_058
+      parentName: 12(Clone)
+      position: {x: -0.5189725, y: -3.2845292, z: -2.9083588}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_059
+      parentName: 12(Clone)
+      position: {x: -0.51897335, y: -0.015414176, z: -2.9083588}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_060
+      parentName: 12(Clone)
+      position: {x: 6.3762336, y: -0.034061197, z: -2.9083588}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_061
+      parentName: 12(Clone)
+      position: {x: -9.931607, y: -5.136063, z: -8.353108}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_062
+      parentName: 12(Clone)
+      position: {x: -7.979925, y: -6.551462, z: -9.492025}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_063
+      parentName: 12(Clone)
+      position: {x: -7.979925, y: -5.0531855, z: -9.495237}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_064
+      parentName: 12(Clone)
+      position: {x: -0.8911447, y: -5.1239505, z: -9.584658}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_065
+      parentName: 12(Clone)
+      position: {x: -7.932553, y: -5.1964564, z: -9.584659}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_066
+      parentName: 12(Clone)
+      position: {x: -7.574305, y: -5.1298084, z: -9.584659}
+      rotation: {x: 0.000000043711385, y: 0.000000043711392, z: 0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_067
+      parentName: 12(Clone)
+      position: {x: -3.398353, y: -5.129811, z: -9.584653}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_068
+      parentName: 12(Clone)
+      position: {x: -3.095089, y: -5.1305313, z: -9.492024}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_069
+      parentName: 12(Clone)
+      position: {x: -3.0986605, y: -5.130531, z: -9.492026}
+      rotation: {x: 0.00000004371139, y: 0.00000004371139, z: 0.000000011924879, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_070
+      parentName: 12(Clone)
+      position: {x: -2.5658557, y: -0.9817703, z: -9.52863}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_071
+      parentName: 12(Clone)
+      position: {x: -5.5419273, y: -5.1266184, z: -9.533994}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_072
+      parentName: 12(Clone)
+      position: {x: -3.9610703, y: -0.012203518, z: -9.528631}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_073
+      parentName: 12(Clone)
+      position: {x: -2.5658557, y: 1.6890233, z: -9.52863}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_074
+      parentName: 12(Clone)
+      position: {x: -3.5226617, y: -0.043350194, z: -9.532773}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_075
+      parentName: 12(Clone)
+      position: {x: -2.5658588, y: -2.8620138, z: -9.528633}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_076
+      parentName: 12(Clone)
+      position: {x: -3.092314, y: -5.0531836, z: -9.495238}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_077
+      parentName: 12(Clone)
+      position: {x: -5.9414725, y: -0.19254464, z: -9.52863}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_078
+      parentName: 12(Clone)
+      position: {x: -7.413983, y: -2.457307, z: -8.356473}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_079
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: 0.8492821, z: -8.26584}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_080
+      parentName: 12(Clone)
+      position: {x: -7.8516974, y: 3.3497624, z: -7.05881}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_081
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: 0.1849829, z: -7.0588093}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_082
+      parentName: 12(Clone)
+      position: {x: -1.1346198, y: -3.188386, z: -13.085882}
+      rotation: {x: -0.000000043711385, y: -0.000000043711392, z: 0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_083
+      parentName: 12(Clone)
+      position: {x: -0.48521814, y: -0.0154134, z: -6.3448253}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_084
+      parentName: 12(Clone)
+      position: {x: 2.9254858, y: -0.024708085, z: -0.8346188}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_085
+      parentName: 12(Clone)
+      position: {x: 5.669904, y: 1.8435693, z: -1.3432328}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_086
+      parentName: 12(Clone)
+      position: {x: 8.581595, y: -0.59266263, z: -3.3001552}
+      rotation: {x: -0.000000043711385, y: -0.000000043711392, z: 0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_087
+      parentName: 12(Clone)
+      position: {x: 5.5557966, y: -1.938963, z: -1.1690822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_088
+      parentName: 12(Clone)
+      position: {x: 1.6649549, y: 0.041989103, z: 0.97932005}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_089
+      parentName: 12(Clone)
+      position: {x: 3.654061, y: -0.025919251, z: -0.6561863}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_090
+      parentName: 12(Clone)
+      position: {x: 3.6773863, y: -0.030073648, z: -0.5438335}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_091
+      parentName: 12(Clone)
+      position: {x: 1.6861641, y: 2.9762871, z: 0.7523913}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_092
+      parentName: 12(Clone)
+      position: {x: 3.6487122, y: -0.04419982, z: 0.28419042}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_093
+      parentName: 12(Clone)
+      position: {x: -0.34395343, y: -0.04420612, z: 0.7523913}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_094
+      parentName: 12(Clone)
+      position: {x: 1.6861624, y: -3.017296, z: 0.7523913}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_095
+      parentName: 12(Clone)
+      position: {x: -0.43275255, y: -0.1713426, z: -6.590782}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_096
+      parentName: 12(Clone)
+      position: {x: -0.5189714, y: 3.2365594, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_097
+      parentName: 12(Clone)
+      position: {x: 2.923322, y: 3.2365625, z: -16.474432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_098
+      parentName: 12(Clone)
+      position: {x: 0.20363963, y: 3.2380183, z: -10.380411}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_099
+      parentName: 12(Clone)
+      position: {x: -0.5188443, y: -0.023998534, z: -17.854698}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_100
+      parentName: 12(Clone)
+      position: {x: 5.657492, y: 3.3367035, z: -10.380411}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_101
+      parentName: 12(Clone)
+      position: {x: 6.376232, y: 3.2365656, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_102
+      parentName: 12(Clone)
+      position: {x: -0.5189741, y: 3.2365594, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_103
+      parentName: 12(Clone)
+      position: {x: 6.3762326, y: 3.2365656, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_104
+      parentName: 12(Clone)
+      position: {x: 5.657493, y: 3.2380214, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_105
+      parentName: 12(Clone)
+      position: {x: 0.20363733, y: 3.3367004, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_106
+      parentName: 12(Clone)
+      position: {x: 5.6536226, y: -3.3846657, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_107
+      parentName: 12(Clone)
+      position: {x: -0.51897335, y: -0.015414176, z: -16.474434}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_108
+      parentName: 12(Clone)
+      position: {x: -0.5204616, y: -2.7350314, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_109
+      parentName: 12(Clone)
+      position: {x: 0.19986622, y: -3.2859867, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_110
+      parentName: 12(Clone)
+      position: {x: -0.6190851, y: 2.7187395, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_111
+      parentName: 12(Clone)
+      position: {x: -0.5204616, y: 2.7187402, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_112
+      parentName: 12(Clone)
+      position: {x: -0.6190851, y: -2.7350307, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_113
+      parentName: 12(Clone)
+      position: {x: -0.5189725, y: -3.2845292, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_114
+      parentName: 12(Clone)
+      position: {x: 6.3762336, y: -0.034061197, z: -16.474434}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_115
+      parentName: 12(Clone)
+      position: {x: 6.377722, y: 2.68555, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_116
+      parentName: 12(Clone)
+      position: {x: 6.3762345, y: -3.284523, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_117
+      parentName: 12(Clone)
+      position: {x: 6.4764447, y: -2.7682195, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_118
+      parentName: 12(Clone)
+      position: {x: 6.377722, y: -2.7682202, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_119
+      parentName: 12(Clone)
+      position: {x: 6.4764447, y: 2.6855493, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_120
+      parentName: 12(Clone)
+      position: {x: -0.5189722, y: -3.2845297, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_121
+      parentName: 12(Clone)
+      position: {x: 6.376232, y: -3.2845235, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_122
+      parentName: 12(Clone)
+      position: {x: 2.9340374, y: -3.2845292, z: -16.474432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_123
+      parentName: 12(Clone)
+      position: {x: 5.6536202, y: -3.2859867, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_124
+      parentName: 12(Clone)
+      position: {x: 0.19986701, y: -3.384672, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_125
+      parentName: 12(Clone)
+      position: {x: 2.9649947, y: -3.196175, z: -13.069067}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_126
+      parentName: 12(Clone)
+      position: {x: 6.3865523, y: -0.050020978, z: -13.098611}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_127
+      parentName: 12(Clone)
+      position: {x: 6.287929, y: -0.0030936096, z: -13.069066}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_128
+      parentName: 12(Clone)
+      position: {x: -0.52929205, y: 0.0005457031, z: -13.098611}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_129
+      parentName: 12(Clone)
+      position: {x: -0.43066877, y: -0.046381857, z: -13.069066}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_130
+      parentName: 12(Clone)
+      position: {x: 2.939296, y: 3.2468936, z: -13.098611}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_131
+      parentName: 12(Clone)
+      position: {x: 2.9180636, y: -3.2948604, z: -13.09861}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_132
+      parentName: 12(Clone)
+      position: {x: 2.892365, y: 3.1482112, z: -13.069067}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_133
+      parentName: 12(Clone)
+      position: {x: 2.9444935, y: -0.011966033, z: -9.792606}
+      rotation: {x: -0.000000043711385, y: -0.000000043711392, z: 0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_134
+      parentName: 12(Clone)
+      position: {x: 2.923322, y: 3.2365625, z: -9.690023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_135
+      parentName: 12(Clone)
+      position: {x: -0.5189741, y: 3.2365594, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_136
+      parentName: 12(Clone)
+      position: {x: 6.3762326, y: 3.2365656, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_137
+      parentName: 12(Clone)
+      position: {x: 2.9340374, y: -3.2845292, z: -9.690023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_138
+      parentName: 12(Clone)
+      position: {x: 6.3762345, y: -3.284523, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_139
+      parentName: 12(Clone)
+      position: {x: -0.5189725, y: -3.2845292, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_140
+      parentName: 12(Clone)
+      position: {x: -0.51897335, y: -0.015414176, z: -9.690023}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_141
+      parentName: 12(Clone)
+      position: {x: 6.3762336, y: -0.034061197, z: -9.690023}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_142
+      parentName: 12(Clone)
+      position: {x: -3.9769452, y: -3.2948604, z: -13.09861}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_143
+      parentName: 12(Clone)
+      position: {x: -1.2413857, y: -3.384672, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_144
+      parentName: 12(Clone)
+      position: {x: -6.695142, y: -3.2859929, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_145
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: -3.2845354, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_146
+      parentName: 12(Clone)
+      position: {x: -7.41398, y: -3.284536, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_147
+      parentName: 12(Clone)
+      position: {x: -6.695142, y: -3.384672, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_148
+      parentName: 12(Clone)
+      position: {x: -3.930014, y: -3.1961813, z: -13.069067}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_149
+      parentName: 12(Clone)
+      position: {x: -1.2413878, y: -3.2859867, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_150
+      parentName: 12(Clone)
+      position: {x: -3.9610703, y: -3.2845292, z: -16.474432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_151
+      parentName: 12(Clone)
+      position: {x: -7.4243, y: 0.00053950195, z: -13.098611}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_152
+      parentName: 12(Clone)
+      position: {x: -7.4154696, y: 2.7187386, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_153
+      parentName: 12(Clone)
+      position: {x: -7.5141926, y: 2.7187378, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_154
+      parentName: 12(Clone)
+      position: {x: -7.325677, y: -0.046381857, z: -13.069066}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_155
+      parentName: 12(Clone)
+      position: {x: -7.4154696, y: -2.7350314, z: -10.380414}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_156
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: -0.015420376, z: -16.474434}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_157
+      parentName: 12(Clone)
+      position: {x: -3.955812, y: 3.2468905, z: -13.098611}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_158
+      parentName: 12(Clone)
+      position: {x: -6.6913714, y: 3.336696, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_159
+      parentName: 12(Clone)
+      position: {x: -1.2376145, y: 3.2380166, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_160
+      parentName: 12(Clone)
+      position: {x: -7.413983, y: 3.2365577, z: -16.474432}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_161
+      parentName: 12(Clone)
+      position: {x: -1.2376153, y: 3.336699, z: -10.380411}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_162
+      parentName: 12(Clone)
+      position: {x: -4.002743, y: 3.1482081, z: -13.069067}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_163
+      parentName: 12(Clone)
+      position: {x: -6.691368, y: 3.2380135, z: -10.380411}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_164
+      parentName: 12(Clone)
+      position: {x: -3.9717853, y: 3.2365594, z: -16.474432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_165
+      parentName: 12(Clone)
+      position: {x: -7.41398, y: 3.2365577, z: -13.221706}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_166
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: -3.2845354, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_167
+      parentName: 12(Clone)
+      position: {x: -3.9610703, y: -3.2845292, z: -9.690023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_168
+      parentName: 12(Clone)
+      position: {x: -7.4139814, y: -0.015420376, z: -9.690023}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_169
+      parentName: 12(Clone)
+      position: {x: -7.413983, y: 3.2365577, z: -9.690022}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_170
+      parentName: 12(Clone)
+      position: {x: -3.9717853, y: 3.2365594, z: -9.690023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_171
+      parentName: 12(Clone)
+      position: {x: -7.5141926, y: -2.7350307, z: -15.785769}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_172
+      parentName: 12(Clone)
+      position: {x: 7.017584, y: 6.9909005, z: -8.565347}
+      rotation: {x: 0.00000004371139, y: 0.00000004371139, z: -0.000000011924882, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_173
+      parentName: 12(Clone)
+      position: {x: 6.9946647, y: 1.5449121, z: -8.40181}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_174
+      parentName: 12(Clone)
+      position: {x: 6.9946647, y: -4.9699516, z: -8.401811}
+      rotation: {x: 0, y: -0.00000008742278, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_175
+      parentName: 12(Clone)
+      position: {x: 2.0416439, y: -5.1295137, z: -8.395521}
+      rotation: {x: -0.00000008742278, y: -0.00000008742278, z: -7.642742e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_176
+      parentName: 12(Clone)
+      position: {x: 4.0742035, y: -2.9570289, z: -2.9707117}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_177
+      parentName: 12(Clone)
+      position: {x: 7.6944714, y: -3.3010225, z: -3.1158936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_178
+      parentName: 12(Clone)
+      position: {x: 7.693611, y: -3.3010244, z: -3.941623}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_179
+      parentName: 12(Clone)
+      position: {x: -1.1591337, y: -6.6727686, z: -8.356473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_180
+      parentName: 12(Clone)
+      position: {x: 6.227504, y: -0.034047533, z: -6.3131466}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_181
+      parentName: 12(Clone)
+      position: {x: 3.303677, y: -0.24153292, z: -5.854365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_182
+      parentName: 12(Clone)
+      position: {x: 5.608082, y: 4.14563, z: -6.9356694}
+      rotation: {x: 0.000000043711385, y: 0.000000043711392, z: 0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_183
+      parentName: 12(Clone)
+      position: {x: 2.4912736, y: -3.5045052, z: -1.5839126}
+      rotation: {x: 0.00000004371139, y: 0.00000004371139, z: -0.000000011924882, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_184
+      parentName: 12(Clone)
+      position: {x: 0.3133266, y: -3.667766, z: -5.1588573}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_185
+      parentName: 12(Clone)
+      position: {x: 0.3565335, y: -3.4166758, z: -8.603539}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_186
+      parentName: 12(Clone)
+      position: {x: -0.91882336, y: -1.1763276, z: -3.609302}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_187
+      parentName: 12(Clone)
+      position: {x: 0.31937808, y: -0.009988925, z: 9.943021}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_188
+      parentName: 12(Clone)
+      position: {x: -0.9081606, y: -0.6364693, z: 0.06526423}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_189
+      parentName: 12(Clone)
+      position: {x: -0.5912936, y: 0.17239015, z: -0.8361939}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_190
+      parentName: 12(Clone)
+      position: {x: -0.8747725, y: -6.170921, z: -3.8732612}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_191
+      parentName: 12(Clone)
+      position: {x: 0.081519686, y: -6.6309814, z: -7.0441747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_192
+      parentName: 12(Clone)
+      position: {x: 5.159613, y: 5.1786485, z: -8.243958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_193
+      parentName: 12(Clone)
+      position: {x: 3.917481, y: -4.927133, z: -4.7184067}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_194
+      parentName: 12(Clone)
+      position: {x: 3.5964863, y: -5.1135917, z: -3.7288575}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_195
+      parentName: 12(Clone)
+      position: {x: 2.4971445, y: -5.4548297, z: -6.0252414}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_196
+      parentName: 12(Clone)
+      position: {x: 4.079022, y: -6.7493963, z: -5.8940063}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_197
+      parentName: 12(Clone)
+      position: {x: 4.8844805, y: -6.7173743, z: -9.232538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_198
+      parentName: 12(Clone)
+      position: {x: 2.4920218, y: -7.008763, z: -9.4222555}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_199
+      parentName: 12(Clone)
+      position: {x: 4.388758, y: -6.978012, z: -7.043093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_200
+      parentName: 12(Clone)
+      position: {x: 0.91373867, y: -7.3855515, z: -5.1623173}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_201
+      parentName: 12(Clone)
+      position: {x: 3.8292806, y: -6.4922647, z: -3.9972692}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_202
+      parentName: 12(Clone)
+      position: {x: -0.3577925, y: 3.71152, z: -6.3204856}
+      rotation: {x: 0.00000004371139, y: 0.00000004371139, z: 0.000000011924879, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_203
+      parentName: 12(Clone)
+      position: {x: 3.2740908, y: -7.3855567, z: -5.203648}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_204
+      parentName: 12(Clone)
+      position: {x: 8.456949, y: -6.170921, z: -3.8684304}
+      rotation: {x: 0.00000008742278, y: 7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_205
+      parentName: 12(Clone)
+      position: {x: 5.25293, y: 6.18358, z: -9.543017}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_206
+      parentName: 12(Clone)
+      position: {x: 5.255079, y: 4.0316815, z: -9.645942}
+      rotation: {x: -0.00000004371139, y: 0.00000004371139, z: 0.000000011924882, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_207
+      parentName: 12(Clone)
+      position: {x: 7.4768677, y: -1.2120479, z: -8.698429}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_208
+      parentName: 12(Clone)
+      position: {x: 8.310193, y: 1.8728043, z: -9.789526}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_209
+      parentName: 12(Clone)
+      position: {x: 9.348904, y: 3.6853514, z: -8.560324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_210
+      parentName: 12(Clone)
+      position: {x: 9.575746, y: 5.731567, z: -8.959915}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_211
+      parentName: 12(Clone)
+      position: {x: 8.11197, y: 6.4881, z: -9.593657}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_212
+      parentName: 12(Clone)
+      position: {x: 7.3897533, y: 2.0027266, z: -9.108402}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_213
+      parentName: 12(Clone)
+      position: {x: 5.551334, y: -3.6122491, z: -6.6372166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_214
+      parentName: 12(Clone)
+      position: {x: 8.376588, y: 5.595419, z: -4.451477}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_215
+      parentName: 12(Clone)
+      position: {x: 8.730574, y: -6.541576, z: -9.486403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_216
+      parentName: 12(Clone)
+      position: {x: -8.900427, y: 1.1969001, z: -16.398617}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_217
+      parentName: 12(Clone)
+      position: {x: -4.1078286, y: 3.2957745, z: -8.353108}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_218
+      parentName: 12(Clone)
+      position: {x: -4.6657324, y: -0.90172637, z: -5.635597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_219
+      parentName: 12(Clone)
+      position: {x: -1.9490626, y: -3.5721781, z: -5.3915253}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_220
+      parentName: 12(Clone)
+      position: {x: -1.8970149, y: -0.09932184, z: -3.0998263}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_221
+      parentName: 12(Clone)
+      position: {x: -2.291344, y: 0.09052878, z: -1.5586181}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_222
+      parentName: 12(Clone)
+      position: {x: -2.8252664, y: -3.146112, z: -3.0989394}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_223
+      parentName: 12(Clone)
+      position: {x: -2.8252664, y: -1.2300863, z: -3.0989394}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_224
+      parentName: 12(Clone)
+      position: {x: -2.8252664, y: -0.70116276, z: -3.0989394}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_225
+      parentName: 12(Clone)
+      position: {x: -2.8252664, y: 1.162239, z: -3.0989394}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_226
+      parentName: 12(Clone)
+      position: {x: -2.8252664, y: 3.0445042, z: -3.0989394}
+      rotation: {x: -0.000000043711392, y: 0.000000043711385, z: 0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_227
+      parentName: 12(Clone)
+      position: {x: -1.9927179, y: 3.3595407, z: -3.0989394}
+      rotation: {x: -0.000000043711385, y: 0.000000043711392, z: -0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_228
+      parentName: 12(Clone)
+      position: {x: 9.036292, y: -0.053427357, z: -5.1215386}
+      rotation: {x: -0.00000004371139, y: 0.00000004371139, z: -0.000000011924879, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_229
+      parentName: 12(Clone)
+      position: {x: 9.831457, y: -0.40376797, z: -6.5320754}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_230
+      parentName: 12(Clone)
+      position: {x: 1.658374, y: -3.093868, z: -0.96769285}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_231
+      parentName: 12(Clone)
+      position: {x: 1.658374, y: 3.032004, z: -0.96769285}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_232
+      parentName: 12(Clone)
+      position: {x: -0.4433689, y: -0.93629515, z: -0.96769285}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_233
+      parentName: 12(Clone)
+      position: {x: -0.44336885, y: 1.8916868, z: -0.96769285}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_234
+      parentName: 12(Clone)
+      position: {x: 4.9111333, y: -0.015730241, z: -1.3460263}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_235
+      parentName: 12(Clone)
+      position: {x: 6.300629, y: -0.018138427, z: -1.8648908}
+      rotation: {x: -0.000000043711392, y: -0.000000043711385, z: -0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_236
+      parentName: 12(Clone)
+      position: {x: 0.83952713, y: -2.638851, z: -2.8995068}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_237
+      parentName: 12(Clone)
+      position: {x: 0.6492272, y: -4.2313423, z: 0.09181765}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_238
+      parentName: 12(Clone)
+      position: {x: 1.2159656, y: 4.3279305, z: -0.8710507}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_239
+      parentName: 12(Clone)
+      position: {x: -8.673629, y: -7.602995, z: -6.38734}
+      rotation: {x: -0.000000043711392, y: -0.000000043711385, z: -0.000000043711392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_241
+      parentName: 12(Clone)
+      position: {x: -6.843962, y: -1.4705936, z: -5.950124}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_242
+      parentName: 12(Clone)
+      position: {x: 2.9333432, y: 3.1940532, z: -17.882652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_243
+      parentName: 12(Clone)
+      position: {x: 2.933343, y: -3.2845044, z: -17.882652}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_244
+      parentName: 12(Clone)
+      position: {x: -3.9656343, y: -3.284505, z: -17.882656}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_245
+      parentName: 12(Clone)
+      position: {x: -3.9656343, y: 3.1940532, z: -17.882652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_246
+      parentName: 12(Clone)
+      position: {x: -3.960475, y: 3.0775707, z: -13.531817}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_247
+      parentName: 12(Clone)
+      position: {x: 2.933343, y: 3.0775707, z: -13.531817}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_248
+      parentName: 12(Clone)
+      position: {x: 2.933343, y: -3.130151, z: -13.531817}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_249
+      parentName: 12(Clone)
+      position: {x: -3.960475, y: -3.130151, z: -13.531817}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_250
+      parentName: 12(Clone)
+      position: {x: -7.1884866, y: -0.012351087, z: -17.882656}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_251
+      parentName: 12(Clone)
+      position: {x: -7.2569184, y: -0.017317936, z: -13.531817}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_252
+      parentName: 12(Clone)
+      position: {x: -0.4996257, y: -4.9256444, z: -11.203623}
+      rotation: {x: 0, y: 0, z: -0.000000023849761, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_253
+      parentName: 12(Clone)
+      position: {x: 7.5349107, y: -0.032765053, z: -10.543223}
+      rotation: {x: 0, y: 0, z: -0.000000023849761, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_254
+      parentName: 12(Clone)
+      position: {x: 6.378069, y: 4.625609, z: -11.202587}
+      rotation: {x: 0, y: 0, z: -0.000000023849761, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_255
+      parentName: 12(Clone)
+      position: {x: -5.374242, y: -0.09932242, z: -3.0998263}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_256
+      parentName: 12(Clone)
+      position: {x: -7.197784, y: -6.6727633, z: -8.353111}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_257
+      parentName: 12(Clone)
+      position: {x: -3.0058913, y: -6.6727633, z: -8.353111}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_258
+      parentName: 12(Clone)
+      position: {x: -9.56205, y: -6.3212504, z: -13.988389}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_259
+      parentName: 12(Clone)
+      position: {x: -10.038417, y: -5.5448313, z: -8.384775}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_260
+      parentName: 12(Clone)
+      position: {x: -9.7180395, y: -6.85922, z: -7.1837015}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_261
+      parentName: 12(Clone)
+      position: {x: -10.090508, y: -6.89885, z: -8.302045}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_262
+      parentName: 12(Clone)
+      position: {x: -9.247842, y: -7.445187, z: -9.045688}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_263
+      parentName: 12(Clone)
+      position: {x: -7.8691816, y: -3.4449902, z: -9.595265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_264
+      parentName: 12(Clone)
+      position: {x: -9.931592, y: -3.5760949, z: -9.584671}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_265
+      parentName: 12(Clone)
+      position: {x: 2.9440494, y: -2.850207, z: -5.6671515}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_266
+      parentName: 12(Clone)
+      position: {x: 2.923315, y: -3.1045182, z: -6.3022046}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_267
+      parentName: 12(Clone)
+      position: {x: 2.9440494, y: 2.8525326, z: -5.6671515}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_268
+      parentName: 12(Clone)
+      position: {x: 2.9233158, y: 3.106846, z: -6.3022013}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_269
+      parentName: 12(Clone)
+      position: {x: 6.377127, y: -0.017894741, z: -17.882656}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_270
+      parentName: 12(Clone)
+      position: {x: 6.222773, y: -0.012927505, z: -13.531818}
+      rotation: {x: 0, y: 0, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_271
+      parentName: 12(Clone)
+      position: {x: 4.953883, y: 6.7877617, z: -11.231159}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_272
+      parentName: 12(Clone)
+      position: {x: 5.6802077, y: 6.8044343, z: -10.1342}
+      rotation: {x: -0.00000008742278, y: -7.642742e-15, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_273
+      parentName: 12(Clone)
+      position: {x: 4.573929, y: 6.781828, z: -15.720161}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_274
+      parentName: 12(Clone)
+      position: {x: -5.6680794, y: 1.9964539, z: -2.054997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_275
+      parentName: 12(Clone)
+      position: {x: -5.6680784, y: -1.3257732, z: -2.0544016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_276
+      parentName: 12(Clone)
+      position: {x: -9.931632, y: 2.7243357, z: -14.463387}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_277
+      parentName: 12(Clone)
+      position: {x: -9.931644, y: 5.609631, z: -17.386759}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_278
+      parentName: 12(Clone)
+      position: {x: -9.931642, y: 4.8797693, z: -16.685675}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_279
+      parentName: 12(Clone)
+      position: {x: -9.931639, y: 4.0953918, z: -15.898794}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_280
+      parentName: 12(Clone)
+      position: {x: -8.900434, y: 4.2753353, z: -17.30018}
+      rotation: {x: -0.000000043711385, y: 0.000000043711392, z: -0.000000043711385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_281
+      parentName: 12(Clone)
+      position: {x: -7.869259, y: 5.6096387, z: -17.386759}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_282
+      parentName: 12(Clone)
+      position: {x: -7.8692465, y: 2.7243438, z: -14.463386}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_283
+      parentName: 12(Clone)
+      position: {x: -7.8692527, y: 4.909115, z: -16.698254}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_284
+      parentName: 12(Clone)
+      position: {x: -7.8692527, y: 4.026669, z: -15.808253}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_285
+      parentName: 12(Clone)
+      position: {x: -8.900447, y: 4.561892, z: -15.068603}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_286
+      parentName: 12(Clone)
+      position: {x: -7.8692527, y: 3.4414845, z: -15.176018}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_287
+      parentName: 12(Clone)
+      position: {x: -8.900443, y: 4.3294315, z: -17.350445}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_288
+      parentName: 12(Clone)
+      position: {x: -8.900436, y: 5.3422647, z: -18.367174}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_289
+      parentName: 12(Clone)
+      position: {x: -8.900436, y: 4.9154625, z: -17.940378}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_290
+      parentName: 12(Clone)
+      position: {x: -8.900431, y: 2.7814531, z: -15.806385}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_291
+      parentName: 12(Clone)
+      position: {x: -8.900431, y: 3.2082546, z: -16.233183}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_292
+      parentName: 12(Clone)
+      position: {x: -8.900434, y: 3.635054, z: -16.659983}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_293
+      parentName: 12(Clone)
+      position: {x: -8.900434, y: 4.061857, z: -17.08678}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_294
+      parentName: 12(Clone)
+      position: {x: -8.900434, y: 4.4886603, z: -17.513578}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_295
+      parentName: 12(Clone)
+      position: {x: -8.900439, y: 5.7665296, z: -18.794558}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_296
+      parentName: 12(Clone)
+      position: {x: -9.931639, y: 3.5342083, z: -15.301826}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_297
+      parentName: 12(Clone)
+      position: {x: -8.900427, y: 2.3509016, z: -15.378954}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_298
+      parentName: 12(Clone)
+      position: {x: -8.900418, y: -1.4877764, z: -11.537184}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_299
+      parentName: 12(Clone)
+      position: {x: -8.900414, y: -1.9145784, z: -11.110389}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_300
+      parentName: 12(Clone)
+      position: {x: -8.900414, y: -2.3413801, z: -10.683586}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_301
+      parentName: 12(Clone)
+      position: {x: -8.900414, y: -2.7681813, z: -10.256791}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_302
+      parentName: 12(Clone)
+      position: {x: -8.900412, y: -3.194984, z: -9.829989}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_303
+      parentName: 12(Clone)
+      position: {x: -8.900418, y: -1.060975, z: -11.9639845}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_304
+      parentName: 12(Clone)
+      position: {x: -8.900424, y: 1.0730343, z: -14.097977}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_305
+      parentName: 12(Clone)
+      position: {x: -8.900424, y: 0.64623034, z: -13.671176}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_306
+      parentName: 12(Clone)
+      position: {x: -8.900421, y: 0.21942885, z: -13.244379}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_307
+      parentName: 12(Clone)
+      position: {x: -8.900421, y: -0.20737232, z: -12.817579}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_308
+      parentName: 12(Clone)
+      position: {x: -8.900421, y: -0.63417405, z: -12.3907795}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_309
+      parentName: 12(Clone)
+      position: {x: -8.900427, y: 1.4998342, z: -14.524774}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_310
+      parentName: 12(Clone)
+      position: {x: -8.900427, y: 1.9266374, z: -14.9515705}
+      rotation: {x: -0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_311
+      parentName: 12(Clone)
+      position: {x: -8.900424, y: -0.28979644, z: -10.216945}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_312
+      parentName: 12(Clone)
+      position: {x: -7.8692155, y: -0.3745379, z: -12.646506}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_313
+      parentName: 12(Clone)
+      position: {x: -9.931614, y: -0.37746456, z: -12.643589}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_314
+      parentName: 12(Clone)
+      position: {x: -8.900426, y: -0.42077276, z: -12.604183}
+      rotation: {x: -0.00000008742278, y: 7.642742e-15, z: -0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_315
+      parentName: 12(Clone)
+      position: {x: -7.869228, y: 0.025856756, z: -11.760414}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_316
+      parentName: 12(Clone)
+      position: {x: -7.8692217, y: -2.1092815, z: -9.651848}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_317
+      parentName: 12(Clone)
+      position: {x: -7.869228, y: 0.61104196, z: -12.39265}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_318
+      parentName: 12(Clone)
+      position: {x: -7.869234, y: 1.4934887, z: -13.28265}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_319
+      parentName: 12(Clone)
+      position: {x: -7.869228, y: -0.69128394, z: -11.047781}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_320
+      parentName: 12(Clone)
+      position: {x: -7.869234, y: 2.1940114, z: -13.971155}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_321
+      parentName: 12(Clone)
+      position: {x: -9.931607, y: -2.9598258, z: -8.861211}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_322
+      parentName: 12(Clone)
+      position: {x: -9.931607, y: -2.1754484, z: -9.596657}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_323
+      parentName: 12(Clone)
+      position: {x: -9.931611, y: -1.4455884, z: -10.324551}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_324
+      parentName: 12(Clone)
+      position: {x: -7.8692217, y: -2.959818, z: -8.861211}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_325
+      parentName: 12(Clone)
+      position: {x: -7.869225, y: -1.4455811, z: -10.290421}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_326
+      parentName: 12(Clone)
+      position: {x: -9.931617, y: 0.6797664, z: -12.48319}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_327
+      parentName: 12(Clone)
+      position: {x: -9.93162, y: 1.4641432, z: -13.27007}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_328
+      parentName: 12(Clone)
+      position: {x: -9.93162, y: 2.1940038, z: -13.971156}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_329
+      parentName: 12(Clone)
+      position: {x: -9.931614, y: -0.6912917, z: -11.047781}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_330
+      parentName: 12(Clone)
+      position: {x: -9.931614, y: 0.118581906, z: -11.886223}
+      rotation: {x: 0.00000008742278, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Building_12_331
+      parentName: 12(Clone)
+      position: {x: 1.9203176, y: 3.608468, z: -5.7344065}
+      rotation: {x: -0.000000011924882, y: -0.00000004371139, z: -0.00000004371139, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
