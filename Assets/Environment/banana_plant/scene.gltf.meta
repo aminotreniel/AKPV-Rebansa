@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: fb6aae509f148874c9efd93dc35279ae
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Environment\banana_plant\scene.bin
+    assetPath: Assets\Environment\banana_plant\scene.bin
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_0Mat_baseColor.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_0Mat_baseColor.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_0Mat_metallicRoughness.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_0Mat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_0Mat_normal.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_0Mat_normal.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_1Mat_baseColor.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_1Mat_baseColor.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_1Mat_metallicRoughness.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_1Mat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_1Mat_normal.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_1Mat_normal.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_2Mat_baseColor.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_2Mat_baseColor.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_2Mat_metallicRoughness.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_2Mat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_2Mat_normal.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_2Mat_normal.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_3Mat_baseColor.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_3Mat_baseColor.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_3Mat_metallicRoughness.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_3Mat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_3Mat_normal.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_3Mat_normal.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_4Mat_baseColor.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_4Mat_baseColor.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_4Mat_metallicRoughness.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_4Mat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Environment\banana_plant\textures\Tree_4Mat_normal.png
+    assetPath: Assets\Environment\banana_plant\textures\Tree_4Mat_normal.png
+  reportItems: []
