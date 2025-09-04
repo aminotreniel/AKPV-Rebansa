@@ -7,8 +7,78 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Object005Mat
+    second: {fileID: 2100000, guid: 1fcae7f7ca094b04db30c378f9c9c540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_buildsMat
+    second: {fileID: 2100000, guid: d03ef537c13a11c43a00ec2c637bb615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facade005Mat
+    second: {fileID: 2100000, guid: 14de374d0a16eda4680b381f36c19be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facade1Mat
+    second: {fileID: 2100000, guid: d651b304ce889864ba99fa6eed8e8f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facade2Mat
+    second: {fileID: 2100000, guid: 32631476df382ff488ce5ff904279da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facade3Mat
+    second: {fileID: 2100000, guid: bfa1cda06be38d740b20f766012172e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facade6Mat
+    second: {fileID: 2100000, guid: 621e2b0f38e2bac4fa348756218330e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foregroundMat
+    second: {fileID: 2100000, guid: a112cd934a6bff14f8a71ca410c6ea89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: liana1Mat
+    second: {fileID: 2100000, guid: aa4206f7aa8caab4ebe8154846b8fec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outpostMat
+    second: {fileID: 2100000, guid: 17e3b217adb2a2e4db0d29babd9e195e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: posters_grassMat
+    second: {fileID: 2100000, guid: 56c8d7d56bf31e146b201bc43e5c5989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: roadMat
     second: {fileID: 2100000, guid: a52800f523592a142ac20ab931111b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road_staffMat
+    second: {fileID: 2100000, guid: 622a37971a1d6d143950746cb36340aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubbish_01Mat
+    second: {fileID: 2100000, guid: cb8d82812432072468da0de12eb7152e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wireMat
+    second: {fileID: 2100000, guid: 248b317827d3de744b11bdb8f990ddea, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
